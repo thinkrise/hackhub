@@ -13,5 +13,8 @@ Functionality could include:
  - Relational and / or document model database, (select carefully).
  - Secure login for event creators.
  - Markdown powered page for each new event using normalised URLs.
+ - Support for GitHub repositories and forks.
+ - Specification of "winning" fork.
+ - Support for other repositories.
  - Support for internationalisation.
  - Support for localisation.
