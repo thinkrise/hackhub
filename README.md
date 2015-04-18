@@ -6,8 +6,6 @@ Escalator have opened HackHub up for forking to allow the coding community to bu
 
 The first version should use this repository as the test data.
 
-The code will be based on Node.js build processes and should used XHTML5 for semantic extensions, (if in doubt, use HTML5 with an XML declaration at the top!), allowing for easy parsing from third-party projects.
-
 Functionality could include:
 
  - Relational and / or document model database, (select carefully).
